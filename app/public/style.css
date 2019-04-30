@@ -1,0 +1,19 @@
+.jumbotron {
+  background-color: transparent;
+}
+
+.panel {
+    background-color:greenyellow;
+}
+
+#imagepreview {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.caption {
+  font-size: 28px;
+  font-style: italic;
+  font-variant: small-caps;
+}
